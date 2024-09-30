@@ -12,7 +12,6 @@ int main()
     scanf("%d",&b);
 
     sum = a + b;
-    printf("the sum of a and b is : %d;", sum);
-
+   printf("the sum of a and b is :%d ;", sum);
     return 0;
 }
